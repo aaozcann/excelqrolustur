@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\DESKTOP\\excelqrolustur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4037AB-EDA5-4E6D-BE21-BD736079AEE5}|ExcelQrCodeGenerator\\ExcelQrCodeGenerator.csproj|f:\\project\\desktop\\excelqrolustur\\excelqrcodegenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4037AB-EDA5-4E6D-BE21-BD736079AEE5}|ExcelQrCodeGenerator\\ExcelQrCodeGenerator.csproj|solutionrelative:excelqrcodegenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4037AB-EDA5-4E6D-BE21-BD736079AEE5}|ExcelQrCodeGenerator\\ExcelQrCodeGenerator.csproj|F:\\Project\\DESKTOP\\excelqrolustur\\excelqrcodegenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C4037AB-EDA5-4E6D-BE21-BD736079AEE5}|ExcelQrCodeGenerator\\ExcelQrCodeGenerator.csproj|solutionrelative:excelqrcodegenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Project\\DESKTOP\\excelqrolustur\\ExcelQrCodeGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "ExcelQrCodeGenerator\\Form1.cs",
+              "ToolTip": "F:\\Project\\DESKTOP\\excelqrolustur\\ExcelQrCodeGenerator\\Form1.cs",
+              "RelativeToolTip": "ExcelQrCodeGenerator\\Form1.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwIcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:13:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Project\\DESKTOP\\excelqrolustur\\ExcelQrCodeGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "ExcelQrCodeGenerator\\Form1.cs",
+              "ToolTip": "C:\\Users\\aaozc\\OneDrive\\Masa\u00FCst\u00FC\\ExcelQrCodeGenerator\\ExcelQrCodeGenerator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-05T13:13:21.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
